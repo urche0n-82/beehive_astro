@@ -1,12 +1,12 @@
 # Bundler cache
 .bundle
 Gemfile.lock
+_site
+_site/*
+.github
 
-# Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-_site
-.github
 
 # IDE configurations
 .idea
